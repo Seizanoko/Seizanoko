@@ -1,4 +1,4 @@
-# Mathieu
+# Bonjour, je suis Mathieu 👋
 
 **Développeur logiciel** · PHP · C#/.NET · Angular · TypeScript
 
